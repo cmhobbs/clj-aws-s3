@@ -1,3 +1,7 @@
+# NOTE
+
+This fork updates dependencies and nothing more.
+
 # clj-aws-s3
 
 A Clojure library for accessing Amazon S3, based on the official AWS
